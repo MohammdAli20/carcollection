@@ -1,3 +1,3 @@
 git clone https://github.com/MohammdAli20/carcollection.git
 git remote 
-gite remote -v 
+git remote -v 
